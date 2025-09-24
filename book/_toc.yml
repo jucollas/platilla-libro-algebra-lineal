@@ -37,9 +37,14 @@ parts:
     - file: references.md
     - file: changelog.md
     - file: credits.md
+
   - caption: Examples
     chapters:
+    - file: examples/overview.md
+    - file: examples/book_structure.md
+    - file: examples/live_code.md
     - file: examples/example_gumbel.ipynb
+    - file: examples/theory_questions.md
     - file: examples/example_quiz_interactive.ipynb
     - file: examples/coding_theory_widgets.ipynb
     - file: examples/parametric_questions.ipynb
