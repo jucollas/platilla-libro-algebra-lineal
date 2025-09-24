@@ -48,3 +48,13 @@ parts:
     - file: examples/example_quiz_interactive.ipynb
     - file: examples/coding_theory_widgets.ipynb
     - file: examples/parametric_questions.ipynb
+
+  - caption : Machine Learning
+    chapters:
+      - file: ml/overview.md
+      - file: ml/knn_interactive.ipynb
+      - file: ml/decision_theory_interactive.ipynb
+      - file: ml/linear_models_interactive.ipynb
+      - file: ml/ridge_sgd_interactive.ipynb
+      - file: ml/nn_interactive.ipynb
+      - file: ml/review.ipynb
