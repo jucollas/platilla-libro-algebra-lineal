@@ -58,3 +58,7 @@ parts:
       - file: ml/ridge_sgd_interactive.ipynb
       - file: ml/nn_interactive.ipynb
       - file: ml/review.ipynb
+
+  - caption : Tutorial
+    chapters:
+      - file: tutorial/overview.md
