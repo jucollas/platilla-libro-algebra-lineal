@@ -62,3 +62,7 @@ parts:
   - caption : Tutorial
     chapters:
       - file: tutorial/overview.md
+      - file: tutorial/ejecucion_de_codigo_en_la_pagina.ipynb
+      - file: tutorial/insertar_videos.ipynb
+      - file: tutorial/quizes.ipynb
+      - file: tutorial/verficacion_de_resulados_en_codigo.ipynb
