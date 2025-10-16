@@ -2,67 +2,66 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Part with some content
-    chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-  - caption: Exercises
-    chapters:
-    - file: exercises.md
-      sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/005a.md
-      - file: exercises/006.md
-      - file: exercises/summary
-    - file: syntax_exercises.md
-      sections:
-      - file: syntax_exercises/007.md
-      - file: syntax_exercises/008.md
-      - file: syntax_exercises/009.md
-      - file: syntax_exercises/010.md
-      - file: syntax_exercises/011.md
-      - file: syntax_exercises/012.md
-      - file: syntax_exercises/013.md
-    - file: extensions.md
-      sections:
-      - file: exercises/007.md
-      - file: extension_exercises/014.md
-  - caption: Miscellaneous
-    chapters:
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
 
-  - caption: Examples
+  - caption: Introducción y cronograma
     chapters:
-    - file: examples/overview.md
-    - file: examples/book_structure.md
-    - file: examples/live_code.md
-    - file: examples/example_gumbel.ipynb
-    - file: examples/theory_questions.md
-    - file: examples/example_quiz_interactive.ipynb
-    - file: examples/coding_theory_widgets.ipynb
-    - file: examples/parametric_questions.ipynb
+      - file: cronogramas/index.md
+      - file: cronogramas/2025-2.ipynb
+      - file: index.ipynb
 
-  - caption : Machine Learning
+  - caption: Fundamentos en R²
     chapters:
-      - file: ml/overview.md
-      - file: ml/knn_interactive.ipynb
-      - file: ml/decision_theory_interactive.ipynb
-      - file: ml/linear_models_interactive.ipynb
-      - file: ml/ridge_sgd_interactive.ipynb
-      - file: ml/nn_interactive.ipynb
-      - file: ml/review.ipynb
+      - file: plano/index.md
+        sections:
+          - file: plano/operaciones_r2.ipynb
+          - file: plano/rectas_r2.ipynb
+          - file: plano/independencia-lineal.ipynb
+      - file: talleres/taller1(vectoresR2).ipynb
+      - file: talleres/taller2(planoR2).ipynb
 
-  - caption : Tutorial
+  - caption: Matrices 2x2 y sistemas lineales
     chapters:
-      - file: tutorial/overview.md
-      - file: tutorial/ejecucion_de_codigo_en_la_pagina.ipynb
-      - file: tutorial/insertar_videos.ipynb
-      - file: tutorial/quizes.ipynb
-      - file: tutorial/verficacion_de_resulados_en_codigo.ipynb
+      - file: matrices2x2/index.md
+        sections:
+          - file: matrices2x2/operaciones_matrices.ipynb
+          - file: matrices2x2/sistemas_de_ecuaciones.ipynb
+          - file: matrices2x2/autovalores_autovectores.ipynb
+          - file: matrices2x2/taller_computacional_matrices.ipynb
+      - file: talleres/taller3(matrices2x2).ipynb
+      - file: talleres/taller4(autoMatrices2x2).ipynb
+      - file: talleres/taller5(codificacion_val_propios).ipynb
+      - file: talleres/taller6(val_propios_M2x2).ipynb
+
+  - caption: Matrices NxN y operaciones generales
+    chapters:
+      - file: matricesNxN/index.md
+        sections:
+          - file: matricesNxN/operaciones_matrices.ipynb
+          - file: matricesNxN/determinantes.ipynb
+      - file: talleres/taller7(opMatricesNxN).ipynb
+      - file: talleres/taller8(sisEcuaciones).ipynb
+
+  - caption: Espacios vectoriales y combinaciones lineales
+    chapters:
+      - file: talleres/taller9(espVectoriales).ipynb
+      - file: talleres/taller10(combLineales).ipynb
+      - file: talleres/taller11(vectoresRn).ipynb
+
+  - caption: Transformaciones lineales
+    chapters:
+      - file: transformaciones/index.md
+        sections:
+          - file: transformaciones/vectores_n2.ipynb
+
+  - caption: Extensiones y práctica
+    chapters:
+      - file: exercises.md
+      - file: syntax_exercises.md
+      - file: extensions.md
+      - file: file_to_be_added_to_toc.md
+
+  - caption: Referencias y créditos
+    chapters:
+      - file: references.md
+      - file: credits.md
+      - file: changelog.md
