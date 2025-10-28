@@ -124,6 +124,6 @@ parts:
 
   - caption: Referencias y créditos
     chapters:
-      - file: referencias.md
-      - file: creditos.md
+      - file: references.md
+      - file: credits.md
       - file: changelog.md
