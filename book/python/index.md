@@ -1,4 +1,4 @@
-# 🐍 Capítulo 0: Python
+# 🐍 Capítulo : Python
 
 ## Introducción
 

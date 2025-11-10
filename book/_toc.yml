@@ -21,11 +21,13 @@ parts:
           - file: r2/operaciones_r2.ipynb
           - file: r2/rectas_r2.ipynb
           - file: r2/independencia_lineal.ipynb
-      - file: r2/actividad_enganche.ipynb
-      - file: r2/quiz_conceptos.ipynb
-      - file: r2/ejercicios_computacionales.ipynb
-      - file: r2/ejercicios_teoricos.ipynb
-      - file: r2/actividad_computacional.ipynb
+      - file: r2/index_material.md
+        sections:
+          - file: r2/actividad_enganche.ipynb
+          - file: r2/quiz_conceptos.ipynb
+          - file: r2/ejercicios_computacionales.ipynb
+          - file: r2/ejercicios_teoricos.ipynb
+          - file: r2/actividad_computacional.ipynb
 
   - caption: Referencias y créditos
     chapters:
