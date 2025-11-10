@@ -44,6 +44,25 @@ parts:
           - file: r3/ejercicios_teoricos.ipynb
           - file: r3/actividad_computacional.ipynb
 
+  - caption: 3. Matrices y sistemas de ecuaciones
+    chapters:
+      - file: matrices/index.md
+        sections:
+          - file: matrices/matrices_2x2.ipynb
+          - file: matrices/matrices_3x3.ipynb
+          - file: matrices/matrices_nxn.ipynb
+          - file: matrices/aplicaciones.ipynb
+          - file: matrices/sistemas_homogeneos.ipynb
+          - file: matrices/sistemas_no_homogeneos.ipynb
+          - file: matrices/inversa_transpuesta.ipynb
+      - file: matrices/index_material.md
+        sections:
+          - file: matrices/actividad_enganche.ipynb
+          - file: matrices/quiz_conceptos.ipynb
+          - file: matrices/ejercicios_computacionales.ipynb
+          - file: matrices/ejercicios_teoricos.ipynb
+          - file: matrices/actividad_computacional.ipynb
+
   - caption: Referencias y créditos
     chapters:
       - file: references.md
