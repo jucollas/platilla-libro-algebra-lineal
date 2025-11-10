@@ -45,45 +45,6 @@ Se presentarán métodos analíticos y visuales para comprenderlo.
 
 ---
 
-## 🧠 Actividades y evaluación
-
-El aprendizaje no termina en la teoría: a lo largo del capítulo realizarás actividades y ejercicios prácticos.
-
-### 🔹 Actividad de enganche
-Explora una situación o reto inicial para conectar con los conceptos del plano.
-
-📗 Archivo: `r2/actividad_enganche.ipynb`
-
----
-
-### 🔹 Quiz de conceptos
-Evalúa tu comprensión de las ideas clave de $\mathbb{R}^2$ mediante preguntas interactivas.
-
-📗 Archivo: `r2/quiz_conceptos.ipynb`
-
----
-
-### 🔹 Ejercicios computacionales
-Resuelve problemas aplicando herramientas de **Python** (NumPy, Matplotlib) para visualizar y operar con vectores.
-
-📗 Archivo: `r2/ejercicios_computacionales.ipynb`
-
----
-
-### 🔹 Ejercicios teóricos
-Refuerza tu razonamiento algebraico con demostraciones y problemas analíticos sobre rectas e independencia.
-
-📗 Archivo: `r2/ejercicios_teoricos.ipynb`
-
----
-
-### 🔹 Actividad computacional final
-Integra todos los conceptos del capítulo resolviendo un desafío aplicado, combinando teoría y programación.
-
-📗 Archivo: `r2/actividad_computacional.ipynb`
-
----
-
 ## 💬 Reflexión final
 
 Trabajar en $\mathbb{R}^2$ permite **visualizar** los conceptos abstractos del álgebra lineal y construir una comprensión sólida que se extenderá naturalmente a espacios de mayor dimensión, como $\mathbb{R}^3$ y $\mathbb{R}^n$.
