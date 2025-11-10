@@ -17,6 +17,15 @@ parts:
   - caption: 1. Introducción a la estructura algebraica de R²
     chapters:
       - file: r2/index.md
+        sections:
+          - file: r2/operaciones_r2.ipynb
+          - file: r2/rectas_r2.ipynb
+          - file: r2/independencia_lineal.ipynb
+      - file: r2/actividad_enganche.ipynb
+      - file: r2/quiz_conceptos.ipynb
+      - file: r2/ejercicios_computacionales.ipynb
+      - file: r2/ejercicios_teoricos.ipynb
+      - file: r2/actividad_computacional.ipynb
 
   - caption: Referencias y créditos
     chapters:
