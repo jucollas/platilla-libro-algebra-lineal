@@ -29,6 +29,21 @@ parts:
           - file: r2/ejercicios_teoricos.ipynb
           - file: r2/actividad_computacional.ipynb
 
+  - caption: 2. Espacios vectoriales en R³
+    chapters:
+      - file: r3/index.md
+        sections:
+          - file: r3/espacios_vectoriales.ipynb
+          - file: r3/combinaciones_lineales.ipynb
+          - file: r3/subespacios.ipynb
+      - file: r3/index_material.md
+        sections:
+          - file: r3/actividad_enganche.ipynb
+          - file: r3/quiz_conceptos.ipynb
+          - file: r3/ejercicios_computacionales.ipynb
+          - file: r3/ejercicios_teoricos.ipynb
+          - file: r3/actividad_computacional.ipynb
+
   - caption: Referencias y créditos
     chapters:
       - file: references.md
