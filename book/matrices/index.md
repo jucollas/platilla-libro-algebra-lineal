@@ -1,12 +1,3 @@
-Perfecto, Anna 💪
-Vamos a crear el archivo **`matrices/index.md`** como **página introductoria** del capítulo de *Matrices*, siguiendo el tono y estilo que has usado en los capítulos de $\mathbb{R}^2$ y $\mathbb{R}^3$:
-lenguaje claro, progresión conceptual y conexión entre la teoría y la aplicación computacional.
-
-Aquí tienes el texto completo, adaptado a tu formato de libro *teachbooks.io*:
-
----
-
-```markdown
 # 🧮 Capítulo: Matrices y Sistemas de Ecuaciones
 
 En este capítulo exploraremos uno de los pilares del álgebra lineal: las **matrices**.  
@@ -148,8 +139,3 @@ A través de ellas, podrás resolver problemas de múltiples dimensiones, entend
 
 ✅ **Próximo paso:**  
 Comienza con la lección [**Matrices $2 \times 2$**](matrices_2x2.ipynb), donde aprenderás las operaciones básicas y su interpretación geométrica en el plano.
-```
-
----
-
-¿Quieres que te ayude ahora a escribir el primer archivo `matrices/matrices_2x2.ipynb` con teoría, operaciones básicas, determinante, interpretación geométrica y ejemplos en Python (usando NumPy y visualizaciones 2D)?
