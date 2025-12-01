@@ -66,6 +66,8 @@ parts:
   - caption: 4. Determinantes y regla de Cramer
     chapters:
       - file: determinantes/index.md
+        sections:
+          - file: determinantes/concepto.ipynb
 
   - caption: Referencias y créditos
     chapters:
