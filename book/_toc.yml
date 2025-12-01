@@ -63,6 +63,10 @@ parts:
           - file: matrices/ejercicios_teoricos.ipynb
           - file: matrices/actividad_computacional.ipynb
 
+  - caption: 4. Determinantes y regla de Cramer
+    chapters:
+      - file: determinantes/index.md
+
   - caption: Referencias y créditos
     chapters:
       - file: references.md
