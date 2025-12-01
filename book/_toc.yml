@@ -68,6 +68,7 @@ parts:
       - file: determinantes/index.md
         sections:
           - file: determinantes/concepto.ipynb
+          - file: determinantes/calculo.ipynb
 
   - caption: Referencias y créditos
     chapters:
