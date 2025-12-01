@@ -71,6 +71,13 @@ parts:
           - file: determinantes/calculo.ipynb
           - file: determinantes/regla_cramer.ipynb
 
+  - caption: 5. Espacio fila, espacio columna y dimensión
+    chapters:
+      - file: espacio_fila_columna/index.md
+        sections:
+          - file: espacio_fila_columna/espacio_fila.ipynb
+          - file: espacio_fila_columna/espacio_columna.ipynb
+
   - caption: Referencias y créditos
     chapters:
       - file: references.md
